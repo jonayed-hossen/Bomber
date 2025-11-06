@@ -34,7 +34,6 @@ Download zip file directly and extract zip file
 then run code below
 
 ```
-cd Bomber &&
 python main.py
 ```
 
