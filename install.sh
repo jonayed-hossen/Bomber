@@ -1,4 +1,4 @@
 #!/bin/bash
-pkg update &&
-pkg upgrade &&
-pkg install python python-pip git &&
+apt update &&
+apt upgrade &&
+apt install python python-pip git &&
